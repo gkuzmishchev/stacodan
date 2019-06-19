@@ -10,7 +10,8 @@ public class Thing {
 
     public Integer getValue() {
         return value;
-    }
+	value = 10; 
+   }
 
     public void setValue(final Integer value) {
         this.value = value;
