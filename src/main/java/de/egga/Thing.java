@@ -6,7 +6,7 @@ package de.egga;
 public class Thing {
 
     private Integer value;
-	public int a;
+	public int b;
 
     public Integer getValue() {
         return value;
